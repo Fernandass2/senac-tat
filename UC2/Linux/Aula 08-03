@@ -1,0 +1,36 @@
+Na aula de hoje, tivemos que atualizade o sistema da máquina vitual, e instalar alguns aplicativos.
+Conhecendo mais sobre Instalação de Softwares
+
+	Gerenciador de Aplicativo
+		Microsoft: Ttf-mscorefonts-intaller
+		p7zip-full
+		Cairo-Dock
+
+O QUE É SYNAPTIC 
+"O Synaptic é uma interface gráfica para o apt-get (comando utilizado para instalações/atualização de pacotes no linux), 
+e este tem a função de ser um gerenciador dos pacotes do sistema."
+    O QUE É: SYNAPTIC 
+		libreoffice-base
+		libreoffice-calc
+		libreoffice-draw
+		libreoffice-impress
+		libreoffice-math
+		libreoffice-writer
+	
+	O QUE É: APT ou APT-GET
+são ferramentas de gerenciamento de pacotes para distribuições Linux baseadas em Debian (ou distros), 
+como Debian, Ubuntu, Linux Mint e elementary OS.
+
+O QUE É PPA
+GNS3
+
+O que é: snap e flatpak (Não iremos usar)
+Um metado de instalar aplicativos.
+
+#04_Conhecendo e instalando os editores de texto 
+#05_Personalização Básica do Linux Mint
+
+EStudar um pouco sobre a plataforma do aurelio.net/vim
+
+#06_ DESAFIO 01: INstalar o softwares
+wps Office for linux
