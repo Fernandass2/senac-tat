@@ -3,3 +3,7 @@
 > SE REDICIONAR O CONTEUDO E NÃO APARECER, EL VI CRIAR O CONTEÚDO . E VAI VERIFICAR SE JÁ FOI ADICIONADO
 
 >> SIGNIFICA REDIRECIONAR DENTRO DO ARQUIVO
+
+sudo apt update && sudo apr install git vim  (para atualizar o programa) 
+
+NUnca usar o "X" maiusculo para sair do diretorio do vim
